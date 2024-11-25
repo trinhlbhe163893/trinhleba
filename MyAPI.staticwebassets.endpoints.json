@@ -2,6 +2,88 @@
   "Version": 1,
   "Endpoints": [
     {
+      "Route": "templates/TemplateTrip.lfowfj1nc6.xlsx",
+      "AssetFile": "templates/TemplateTrip.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sa58fnOn/aYk0PV5+uNGzSmJhFCjTjZuWExy1BOSujk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 02:59:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lfowfj1nc6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sa58fnOn/aYk0PV5+uNGzSmJhFCjTjZuWExy1BOSujk="
+        },
+        {
+          "Name": "label",
+          "Value": "templates/TemplateTrip.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "templates/TemplateTrip.xlsx",
+      "AssetFile": "templates/TemplateTrip.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sa58fnOn/aYk0PV5+uNGzSmJhFCjTjZuWExy1BOSujk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 20 Nov 2024 02:59:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sa58fnOn/aYk0PV5+uNGzSmJhFCjTjZuWExy1BOSujk="
+        }
+      ]
+    },
+    {
       "Route": "uploads/z5022735174179_9db7bac03d73842c4cf022542e62435b_638657537413204490.c96iqzmxa2.jpg",
       "AssetFile": "uploads/z5022735174179_9db7bac03d73842c4cf022542e62435b_638657537413204490.jpg",
       "Selectors": [],
