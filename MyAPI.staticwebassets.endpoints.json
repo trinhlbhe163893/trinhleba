@@ -84,7 +84,7 @@
       ]
     },
     {
-      "Route": "templates/TemplateVehicle.o9i0ljk53y.xlsx",
+      "Route": "templates/TemplateVehicle.2vadnqvkxp.xlsx",
       "AssetFile": "templates/TemplateVehicle.xlsx",
       "Selectors": [],
       "ResponseHeaders": [
@@ -98,7 +98,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10122"
+          "Value": "10124"
         },
         {
           "Name": "Content-Type",
@@ -106,21 +106,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fD0U6wGt9bVP+Rx0/wM1qQJAKy9yjvqn879cU7YBHWE=\""
+          "Value": "\"wnjfNh0QAzmtE6o4/i3zvpbz949iGKW0AzZwIuHZb4Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 17:25:39 GMT"
+          "Value": "Sat, 07 Dec 2024 09:40:56 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o9i0ljk53y"
+          "Value": "2vadnqvkxp"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fD0U6wGt9bVP+Rx0/wM1qQJAKy9yjvqn879cU7YBHWE="
+          "Value": "sha256-wnjfNh0QAzmtE6o4/i3zvpbz949iGKW0AzZwIuHZb4Y="
         },
         {
           "Name": "label",
@@ -143,7 +143,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10122"
+          "Value": "10124"
         },
         {
           "Name": "Content-Type",
@@ -151,17 +151,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fD0U6wGt9bVP+Rx0/wM1qQJAKy9yjvqn879cU7YBHWE=\""
+          "Value": "\"wnjfNh0QAzmtE6o4/i3zvpbz949iGKW0AzZwIuHZb4Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 17:25:39 GMT"
+          "Value": "Sat, 07 Dec 2024 09:40:56 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fD0U6wGt9bVP+Rx0/wM1qQJAKy9yjvqn879cU7YBHWE="
+          "Value": "sha256-wnjfNh0QAzmtE6o4/i3zvpbz949iGKW0AzZwIuHZb4Y="
         }
       ]
     },
