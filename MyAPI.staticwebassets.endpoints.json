@@ -2,88 +2,6 @@
   "Version": 1,
   "Endpoints": [
     {
-      "Route": "templates/TemplateTrip.lfowfj1nc6.xlsx",
-      "AssetFile": "templates/TemplateTrip.xlsx",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9789"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sa58fnOn/aYk0PV5+uNGzSmJhFCjTjZuWExy1BOSujk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 02:59:58 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lfowfj1nc6"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sa58fnOn/aYk0PV5+uNGzSmJhFCjTjZuWExy1BOSujk="
-        },
-        {
-          "Name": "label",
-          "Value": "templates/TemplateTrip.xlsx"
-        }
-      ]
-    },
-    {
-      "Route": "templates/TemplateTrip.xlsx",
-      "AssetFile": "templates/TemplateTrip.xlsx",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9789"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sa58fnOn/aYk0PV5+uNGzSmJhFCjTjZuWExy1BOSujk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 20 Nov 2024 02:59:58 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-sa58fnOn/aYk0PV5+uNGzSmJhFCjTjZuWExy1BOSujk="
-        }
-      ]
-    },
-    {
       "Route": "templates/TemplateVehicle.2vadnqvkxp.xlsx",
       "AssetFile": "templates/TemplateVehicle.xlsx",
       "Selectors": [],
@@ -162,6 +80,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-wnjfNh0QAzmtE6o4/i3zvpbz949iGKW0AzZwIuHZb4Y="
+        }
+      ]
+    },
+    {
+      "Route": "templates/Template_Inter_Provincial.k4af2bpf7a.xlsx",
+      "AssetFile": "templates/Template_Inter_Provincial.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BH/gG3Um9F9Q72MgjtEOi8cW4yyx0oIu/XgzHGo/KW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 16:05:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k4af2bpf7a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BH/gG3Um9F9Q72MgjtEOi8cW4yyx0oIu/XgzHGo/KW0="
+        },
+        {
+          "Name": "label",
+          "Value": "templates/Template_Inter_Provincial.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "templates/Template_Inter_Provincial.xlsx",
+      "AssetFile": "templates/Template_Inter_Provincial.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BH/gG3Um9F9Q72MgjtEOi8cW4yyx0oIu/XgzHGo/KW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 16:05:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BH/gG3Um9F9Q72MgjtEOi8cW4yyx0oIu/XgzHGo/KW0="
+        }
+      ]
+    },
+    {
+      "Route": "templates/Template_Trip_Convenience.5pxci5kep7.xlsx",
+      "AssetFile": "templates/Template_Trip_Convenience.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9790"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4SaL7QAOEiGiE7uNBAbC8baSwpS7IuTON/dnNHXJE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 16:05:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5pxci5kep7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4SaL7QAOEiGiE7uNBAbC8baSwpS7IuTON/dnNHXJE4="
+        },
+        {
+          "Name": "label",
+          "Value": "templates/Template_Trip_Convenience.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "templates/Template_Trip_Convenience.xlsx",
+      "AssetFile": "templates/Template_Trip_Convenience.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9790"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4SaL7QAOEiGiE7uNBAbC8baSwpS7IuTON/dnNHXJE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 16:05:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4SaL7QAOEiGiE7uNBAbC8baSwpS7IuTON/dnNHXJE4="
         }
       ]
     },
