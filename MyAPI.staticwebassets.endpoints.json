@@ -166,7 +166,7 @@
       ]
     },
     {
-      "Route": "templates/Template_Trip_Convenience.5pxci5kep7.xlsx",
+      "Route": "templates/Template_Trip_Convenience.1fr5wy5mb6.xlsx",
       "AssetFile": "templates/Template_Trip_Convenience.xlsx",
       "Selectors": [],
       "ResponseHeaders": [
@@ -180,7 +180,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9790"
+          "Value": "9959"
         },
         {
           "Name": "Content-Type",
@@ -188,21 +188,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z4SaL7QAOEiGiE7uNBAbC8baSwpS7IuTON/dnNHXJE4=\""
+          "Value": "\"DdLJTBeJNrMsfTEoL4RcSwRsGfDIe8o5oG0VJh4ABZ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 16:05:04 GMT"
+          "Value": "Wed, 11 Dec 2024 05:07:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5pxci5kep7"
+          "Value": "1fr5wy5mb6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Z4SaL7QAOEiGiE7uNBAbC8baSwpS7IuTON/dnNHXJE4="
+          "Value": "sha256-DdLJTBeJNrMsfTEoL4RcSwRsGfDIe8o5oG0VJh4ABZ8="
         },
         {
           "Name": "label",
@@ -225,7 +225,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9790"
+          "Value": "9959"
         },
         {
           "Name": "Content-Type",
@@ -233,17 +233,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z4SaL7QAOEiGiE7uNBAbC8baSwpS7IuTON/dnNHXJE4=\""
+          "Value": "\"DdLJTBeJNrMsfTEoL4RcSwRsGfDIe8o5oG0VJh4ABZ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 16:05:04 GMT"
+          "Value": "Wed, 11 Dec 2024 05:07:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Z4SaL7QAOEiGiE7uNBAbC8baSwpS7IuTON/dnNHXJE4="
+          "Value": "sha256-DdLJTBeJNrMsfTEoL4RcSwRsGfDIe8o5oG0VJh4ABZ8="
         }
       ]
     },
